@@ -29,6 +29,7 @@
           <i class="fa-solid fa-phone lock mm"></i>
           <input  name="phone" type="text" placeholder="رقم الهاتف" id="phone" class="name ">
           <span>
+            <!-- Marwannnnnnnnnnnnnnnnnnnnnnnnnnnnn -->
             <!-- //! يتم حذف  هذا الحقل ويحل مكانة حق اخيار الصورة -->
             <input required name="picture" type="file" accept="image/*" placeholder="Choose an image" id="imageInput" class="name">
 
