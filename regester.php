@@ -15,7 +15,7 @@
 
 <body>
   <div class="container">
-    <h2>تسجيل كمزود خدمة</h2>
+    <h2>تسجيل كمزود خدمة</h2>  
     <div class="form-container">
       <a href="login.html" class="login">تسجيل دخول</a>
       <form action="php/add_provider.php" method="post" enctype="multipart/form-data">
